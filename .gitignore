@@ -1,0 +1,20 @@
+
+#trash visual studio
+.vs/
+*.user
+*.userosschace
+*.sln.docstates
+
+#folder compile build
+x64/
+x86/
+debug/
+Release/
+
+#c++ trash
+*.obj
+*.exe
+*.pdb
+*.log
+
+
